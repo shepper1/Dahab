@@ -1,0 +1,219 @@
+{
+  "pays": "Égypte",
+  "drapeau": "🇪🇬",
+  "symbole": "🐠",
+  "titre": "Dahab : Aventure Bédouine et Merveilles du Sinaï",
+  "budget": "1200€",
+  "duree": "8 jours",
+  "temps_vol": "Environ 5h",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Dahab et première immersion",
+      "legende": "Atterrissage en douceur dans le Sinaï, transfert vers Dahab et première balade le long de la promenade en bord de mer pour s'imprégner de l'atmosphère décontractée.",
+      "lieu": "Dahab",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Sharm El Sheikh (SSH)",
+        "🚐 Transfert vers Dahab (environ 1h)",
+        "🚶‍♀️ Balade sur la promenade de Lighthouse Bay"
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Réservez votre taxi ou navette à l'avance pour éviter les tracas à l'aéroport. Le trajet dure environ 1 heure."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🐠",
+      "titre": "Les trésors du Blue Hole",
+      "legende": "Découverte de l'un des sites de plongée les plus célèbres au monde, le Blue Hole, accessible en snorkeling depuis le bord pour admirer ses coraux et sa faune marine spectaculaire.",
+      "lieu": "Dahab (Blue Hole)",
+      "activites": [
+        "🏊‍♂️ Matinée snorkeling au Blue Hole",
+        "🍽️ Déjeuner dans un restaurant bédouin en bord de mer"
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Allez-y tôt le matin pour éviter la foule. N'oubliez pas crème solaire, chapeau et chaussures d'eau."
+        },
+        {
+          "symbole": "🌊",
+          "titre": "Sécurité",
+          "texte": "Le Blue Hole est magnifique mais peut être dangereux. Restez près du récif et ne tentez pas de traverser le 'trou' sans formation adéquate."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏜️",
+      "titre": "Aventure dans le désert du Sinaï",
+      "legende": "Excursion en jeep à travers les paysages désertiques pour explorer le 'Coloured Canyon' et se rafraîchir dans une oasis.",
+      "lieu": "Désert du Sinaï",
+      "activites": [
+        "🚙 Excursion en 4x4 au Coloured Canyon",
+        "🌴 Détente dans une oasis"
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Équipement",
+          "texte": "Portez des chaussures de marche confortables pour l'exploration du canyon."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "Emportez beaucoup d'eau, le soleil du désert est intense."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🤿",
+      "titre": "Initiation à la plongée ou farniente",
+      "legende": "Journée dédiée à la découverte des fonds marins avec un baptême de plongée, ou simplement à la détente sur les plages de Dahab.",
+      "lieu": "Dahab (Lighthouse)",
+      "activites": [
+        "🤿 Baptême de plongée sur le site de Lighthouse",
+        "🧘‍♀️ Après-midi libre : yoga, lecture ou sieste en bord de mer"
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "👍",
+          "titre": "Pour tous",
+          "texte": "Dahab est l'un des endroits les moins chers et les plus faciles au monde pour apprendre à plonger."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🐪",
+      "titre": "Échappée sauvage à Ras Abu Galum",
+      "legende": "Une journée d'aventure combinant une randonnée à dos de dromadaire le long de la côte et du snorkeling dans la réserve protégée de Ras Abu Galum.",
+      "lieu": "Ras Abu Galum",
+      "activites": [
+        "🐪 Randonnée à dos de dromadaire jusqu'à Ras Abu Galum",
+        "🐠 Snorkeling dans le lagon bleu"
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎒",
+          "titre": "À emporter",
+          "texte": "Prévoyez un petit sac avec le nécessaire pour la journée (eau, crème solaire, maillot de bain)."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌅",
+      "titre": "Marché local et vue panoramique",
+      "legende": "Immersion dans la vie locale avec une visite du marché d'Assalah, suivie d'une montée à un point de vue pour admirer le coucher de soleil sur les montagnes.",
+      "lieu": "Dahab",
+      "activites": [
+        "🛍️ Shopping au marché d'Assalah",
+        "🌅 Coucher de soleil depuis les montagnes avec thé bédouin"
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Négociation",
+          "texte": "Le marchandage fait partie de la culture sur les marchés, n'hésitez pas à négocier les prix avec le sourire."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "✨",
+      "titre": "Derniers instants et saveurs locales",
+      "legende": "Profitez d'une journée libre pour retourner sur votre site préféré, faire du kitesurf, ou simplement vous relaxer avant un dîner d'adieu sous les étoiles.",
+      "lieu": "Dahab",
+      "activites": [
+        "🏄‍♂️ Journée libre (kitesurf, paddle, ou détente)",
+        "🌌 Dîner bédouin dans le désert ou dans un restaurant en bord de mer"
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez aux spécialités de poissons frais grillés dans les restaurants de la promenade."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Départ de Dahab",
+      "legende": "Dernier petit-déjeuner face à la mer Rouge avant le transfert vers l'aéroport de Sharm El Sheikh pour le vol retour.",
+      "lieu": "Dahab",
+      "activites": [
+        "☕ Dernier petit-déjeuner égyptien",
+        "🚐 Transfert vers l'aéroport de Sharm El Sheikh (SSH)",
+        "🛫 Vol retour vers Paris"
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "Profitez des dernières heures pour acheter des épices, des bijoux en argent ou des objets d'artisanat bédouin."
+        }
+      ]
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril à juin et de septembre à novembre.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Climat désertique. Prévoir vêtements légers, maillot de bain, mais aussi un gilet pour les soirées plus fraîches.",
+      "symbole": "🌡️"
+    },
+    {
+      "titre": "Monnaie : Livre Égyptienne (EGP). Prévoir du liquide pour les petites dépenses et les excursions.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Visa 'Sinai Only' gratuit pour 15 jours à l'arrivée, suffisant si vous restez dans la région de Dahab.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "Acheter une carte SIM locale (Orange, Vodafone) à l'aéroport est une bonne option pour rester connecté.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles",
+      "titre": "Egypt Travel",
+      "url": "https://egypt.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Conseils aux voyageurs",
+      "titre": "France Diplomatie - Égypte",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/egypte/",
+      "symbole": "⚠️"
+    },
+    {
+      "legende": "Météo locale",
+      "titre": "Météo Dahab",
+      "url": "https://www.accuweather.com/fr/eg/dahab/126960/weather-forecast/126960",
+      "symbole": "🌤️"
+    }
+  ]
+}
